@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-08T20:47:34.789Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2025-11-08T22:23:52.829Z
+Commit: Add export functionality for reports
