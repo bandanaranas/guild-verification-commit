@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-13T21:02:38.708Z
-Commit: Patch API endpoint error handling
+Timestamp: 2025-11-13T21:02:52.675Z
+Commit: Resolve null pointer exception in user service
